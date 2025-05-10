@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="View Live results from the Upcoming Computing Award Night.">
+    <link href="img/welsu.png" rel="icon">
+    <link rel="stylesheet" href="css/result.css">
+    <script src="js/res.js" defer></script>
+
+    <title>FAW Results</title>
+    
+</head>
+
+<body>
+    <header>
+        <h1>Face of Wellspring</h1>
+        <div class="header-details">Live Voting Results</div>
+        <div class="last-updated">Last updated: <span id="update-time">Loading...</span></div>
+    </header>
+
+    <div class="controls">
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search nominees or categories...">
+            <div class="search-icon">🔍</div>
+        </div>
+        
+        <div class="filter-container">
+            <button class="filter-btn active" data-filter="all">All Categories</button>
+            <button class="filter-btn" data-filter="health">Health Science</button>
+            <button class="filter-btn" data-filter="computing">Computing</button>
+            <button class="filter-btn" data-filter="management">Management</button>
+        </div>
+        
+        <button id="refresh-btn" class="refresh-btn">
+            <span>Refresh</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M23 4V10H17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M1 20V14H7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M3.51 9.00001C4.01717 7.56655 4.87913 6.2789 6.01547 5.27543C7.1518 4.27196 8.52547 3.58635 10.0083 3.28469C11.4911 2.98304 13.0348 3.07885 14.4721 3.56103C15.9094 4.04321 17.1947 4.89391 18.19 6.00001L23 10M1 14L5.81 18C6.80533 19.1061 8.09066 19.9568 9.52794 20.439C10.9652 20.9212 12.5089 21.017 13.9917 20.7153C15.4745 20.4137 16.8482 19.7281 17.9845 18.7246C19.1209 17.7211 19.9828 16.4335 20.49 15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </button>
+    </div>
+
+    <div id="loading" class="loading-indicator">Loading award data...</div>
+    <div id="no-results" class="no-results hidden">No matching results found.</div>
+
+    <div class="categories-grid" id="categories-container">
+        
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+   
+</body>
+</html>
