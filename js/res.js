@@ -117,7 +117,7 @@ const awardData = [
                 description: "Nominees in the Department of Public Administration",
                 type: "management",
                 nominees: [
-                    { id: 1001, name: "Osasere Sylvia", votes: 39, image: "img/smile.jpg" }
+                    { id: 1001, name: "Osasere Sylvia", votes: 131, image: "img/smile.jpg" }
                     
                 ]
             },
@@ -129,7 +129,7 @@ const awardData = [
                 type: "management",
                 nominees: [
                     { id: 1101, name: "Osahon Favour", votes: 91, image: "img/osahon.jpg" },
-                    { id: 1102, name: "Emmanuel Blessing", votes: 0, image: "img/blessing.jpeg" }
+                    { id: 1102, name: "Emmanuel Blessing", votes: 5, image: "img/blessing.jpeg" }
                     
                 ]
             },
