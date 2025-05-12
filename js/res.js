@@ -5,12 +5,12 @@ const awardData = [
                 description: "Nominees in the Department of Nursing",
                 type: "health",
                 nominees: [
-                    { id: 101, name: "Fejiro Omasibro", votes:922, image: "img/fejiro.jpg" },
+                    { id: 101, name: "Fejiro Omasibro", votes:1031, image: "img/fejiro.jpg" },
                     { id: 102, name: "Ediagbonya Racheal", votes:247, image: "img/rachael.jpg" },
-                    { id: 104, name: "Nwite Chioma Promise", votes: 210, image: "img/Nwite.jpg" },
+                    { id: 104, name: "Nwite Chioma Promise", votes: 1010, image: "img/Nwite.jpg" },
                     { id: 105, name: "Kimberly Eke", votes: 768, image: "img/kimberly.jpg" },
                     { id: 106, name: "Nwachukwu Chioma", votes: 51.5, image: "img/chioma.jpg" },
-                    { id: 107, name: "Uzomezie Sylvia", votes: 141, image: "img/sylvia.jpg" }
+                    { id: 107, name: "Uzomezie Sylvia", votes: 214, image: "img/sylvia.jpg" }
                     
                 ]
             },
@@ -24,7 +24,7 @@ const awardData = [
                     { id: 202, name: "Godswill Enajewhe", votes: 0, image: "img/Godswill.jpg" },
                     { id: 203, name: "Ogundun Moyinjah", votes: 41, image: "img/classic.jpg" },
                     { id: 204, name: "Akpeninor Favour", votes: 0, image: "img/favour.jpg" },
-                    { id: 205, name: "Ehikwe Destinty", votes: 621, image: "img/freddy.jpg" }
+                    { id: 205, name: "Ehikwe Destinty", votes: 1121, image: "img/freddy.jpg" }
                             
                 ]
                 
@@ -80,7 +80,7 @@ const awardData = [
                 description: "Nominees in the Department of Nursing",
                 type: "health",
                 nominees: [
-                    { id: 701, name: "Amengialue Michael", votes: 1090, image: "img/prosper.jpg" },
+                    { id: 701, name: "Amengialue Michael", votes: 1145, image: "img/prosper.jpg" },
                     { id: 702, name: "Osaretin Igbinosa", votes: 5, image: "img/desmond.jpg" },
                     { id: 703, name: "Giaus", votes: 53, image: "img/Gaius.jpg" }
                     
@@ -106,7 +106,7 @@ const awardData = [
                 description: "Nominees in the Department of Public Health",
                 type: "health",
                 nominees: [
-                    { id: 701, name: "Otakpemehi Tehilah", votes: 45, image: "img/Tehilah.jpg" }
+                    { id: 701, name: "Otakpemehi Tehilah", votes: 75, image: "img/Tehilah.jpg" }
                     
                 ]
             },
