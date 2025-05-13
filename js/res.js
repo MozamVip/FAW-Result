@@ -24,7 +24,7 @@ const awardData = [
                     { id: 202, name: "Godswill Enajewhe", votes: 0, image: "img/Godswill.jpg" },
                     { id: 203, name: "Ogundun Moyinjah", votes: 81, image: "img/classic.jpg" },
                     { id: 204, name: "Akpeninor Favour", votes: 0, image: "img/favour.jpg" },
-                    { id: 205, name: "Ehikwe Destinty", votes: 1121, image: "img/freddy.jpg" }
+                    { id: 205, name: "Ehikwe Destinty", votes: 1141, image: "img/freddy.jpg" }
                             
                 ]
                 
