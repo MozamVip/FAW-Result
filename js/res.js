@@ -5,12 +5,12 @@ const awardData = [
                 description: "Nominees in the Department of Nursing",
                 type: "health",
                 nominees: [
-                    { id: 101, name: "Fejiro Omasibro", votes:1994, image: "img/fejiro.jpg" },
+                    { id: 101, name: "Fejiro Omasibro", votes:2700, image: "img/fejiro.jpg" },
                     { id: 102, name: "Ediagbonya Racheal", votes:247, image: "img/rachael.jpg" },
-                    { id: 104, name: "Nwite Chioma Promise", votes: 1010, image: "img/Nwite.jpg" },
-                    { id: 105, name: "Kimberly Eke", votes: 1698, image: "img/kimberly.jpg" },
-                    { id: 106, name: "Nwachukwu Chioma", votes: 61.5, image: "img/chioma.jpg" },
-                    { id: 107, name: "Uzomezie Sylvia", votes: 314, image: "img/sylvia.jpg" }
+                    { id: 104, name: "Nwite Chioma Promise", votes: 1130, image: "img/Nwite.jpg" },
+                    { id: 105, name: "Kimberly Eke", votes: 1699, image: "img/kimberly.jpg" },
+                    { id: 106, name: "Nwachukwu Chioma", votes: 105.5, image: "img/chioma.jpg" },
+                    { id: 107, name: "Uzomezie Sylvia", votes: 400, image: "img/sylvia.jpg" }
                     
                 ]
             },
@@ -35,7 +35,7 @@ const awardData = [
                 description: "Nominees in the Department of Business Administration",
                 type: "management",
                 nominees: [
-                    { id: 301, name: "Glory Benjamin Uche", votes: 22, image: "img/glory.jpg" },
+                    { id: 301, name: "Glory Benjamin Uche", votes: 66, image: "img/glory.jpg" },
                     { id: 302, name: "Emmanuel Chigozie Alozie", votes: 20, image: "img/alozie.jpg" }
                     
 
@@ -48,7 +48,7 @@ const awardData = [
                 type: "management",
                 nominees: [
                     { id: 401, name: "Osawese Praise", votes: 0, image: "img/praise.jpg" },
-                    { id: 402, name: "Williams Godson", votes: 93, image: "img/williams.jpeg" }
+                    { id: 402, name: "Williams Godson", votes: 785, image: "img/williams.jpeg" }
                     
                 ]
             },
@@ -69,7 +69,7 @@ const awardData = [
                 description: "Nominees in the Department of Medical Laboratory",
                 type: "health",
                 nominees: [
-                    { id: 601, name: "Nwafor Chisom", votes: 35, image: "img/chisom.jpg" }
+                    { id: 601, name: "Nwafor Chisom", votes: 45, image: "img/chisom.jpg" }
                     
                 ]
             },
@@ -80,9 +80,9 @@ const awardData = [
                 description: "Nominees in the Department of Nursing",
                 type: "health",
                 nominees: [
-                    { id: 701, name: "Amengialue Michael", votes: 1155, image: "img/prosper.jpg" },
+                    { id: 701, name: "Amengialue Michael", votes: 1160, image: "img/prosper.jpg" },
                     { id: 702, name: "Osaretin Igbinosa", votes: 5, image: "img/desmond.jpg" },
-                    { id: 703, name: "Giaus", votes: 53, image: "img/Gaius.jpg" }
+                    { id: 703, name: "Giaus", votes: 2237, image: "img/Gaius.jpg" }
                     
             
                 ]
@@ -128,8 +128,8 @@ const awardData = [
                 description: "Nominees in the Department of Accounting",
                 type: "management",
                 nominees: [
-                    { id: 1101, name: "Osahon Favour", votes: 93, image: "img/osahon.jpg" },
-                    { id: 1102, name: "Emmanuel Blessing", votes: 5, image: "img/blessing.jpeg" }
+                    { id: 1101, name: "Osahon Favour", votes: 95, image: "img/osahon.jpg" },
+                    { id: 1102, name: "Emmanuel Blessing", votes: 41, image: "img/blessing.jpeg" }
                     
                 ]
             },
