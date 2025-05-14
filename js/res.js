@@ -82,7 +82,7 @@ const awardData = [
                 nominees: [
                     { id: 701, name: "Amengialue Michael", votes: 1160, image: "img/prosper.jpg" },
                     { id: 702, name: "Osaretin Igbinosa", votes: 5, image: "img/desmond.jpg" },
-                    { id: 703, name: "Giaus", votes: 2388, image: "img/Gaius.jpg" }
+                    { id: 703, name: "Giaus", votes: 3898, image: "img/Gaius.jpg" }
                     
             
                 ]
