@@ -9,8 +9,8 @@ const awardData = [
                     { id: 102, name: "Ediagbonya Racheal", votes:247, image: "img/rachael.jpg" },
                     { id: 104, name: "Nwite Chioma Promise", votes: 1180, image: "img/Nwite.jpg" },
                     { id: 105, name: "Kimberly Eke", votes: 1815, image: "img/kimberly.jpg" },
-                    { id: 106, name: "Nwachukwu Chioma", votes: 105.5, image: "img/chioma.jpg" },
-                    { id: 107, name: "Uzomezie Sylvia", votes: 440, image: "img/sylvia.jpg" }
+                    { id: 106, name: "Nwachukwu Chioma", votes: 207.5, image: "img/chioma.jpg" },
+                    { id: 107, name: "Uzomezie Sylvia", votes: 578, image: "img/sylvia.jpg" }
                     
                 ]
             },
@@ -22,7 +22,7 @@ const awardData = [
                 nominees: [
                     { id: 201, name: "Imasuen Walter", votes: 42, image: "img/walter.jpg" },
                     { id: 202, name: "Godswill Enajewhe", votes: 0, image: "img/Godswill.jpg" },
-                    { id: 203, name: "Ogundun Moyinjah", votes: 96, image: "img/classic.jpg" },
+                    { id: 203, name: "Ogundun Moyinjah", votes: 196, image: "img/classic.jpg" },
                     { id: 204, name: "Akpeninor Favour", votes: 0, image: "img/favour.jpg" },
                     { id: 205, name: "Ehikwe Destinty", votes: 1161, image: "img/freddy.jpg" }
                             
