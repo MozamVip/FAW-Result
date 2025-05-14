@@ -48,7 +48,7 @@ const awardData = [
                 type: "management",
                 nominees: [
                     { id: 401, name: "Osawese Praise", votes: 0, image: "img/praise.jpg" },
-                    { id: 402, name: "Williams Godson", votes: 941, image: "img/williams.jpeg" }
+                    { id: 402, name: "Williams Godson", votes: 991, image: "img/williams.jpeg" }
                     
                 ]
             },
