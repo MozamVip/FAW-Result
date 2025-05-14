@@ -80,7 +80,7 @@ const awardData = [
                 description: "Nominees in the Department of Nursing",
                 type: "health",
                 nominees: [
-                    { id: 701, name: "Amengialue Michael", votes: 1160, image: "img/prosper.jpg" },
+                    { id: 701, name: "Amengialue Michael", votes: 1187, image: "img/prosper.jpg" },
                     { id: 702, name: "Osaretin Igbinosa", votes: 5, image: "img/desmond.jpg" },
                     { id: 703, name: "Giaus", votes: 3898, image: "img/Gaius.jpg" }
                     
