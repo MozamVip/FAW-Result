@@ -20,11 +20,11 @@ const awardData = [
                 description: "Nominees in the Department of Computing",
                 type: "computing",
                 nominees: [
-                    { id: 201, name: "Imasuen Walter", votes: 12, image: "img/walter.jpg" },
+                    { id: 201, name: "Imasuen Walter", votes: 42, image: "img/walter.jpg" },
                     { id: 202, name: "Godswill Enajewhe", votes: 0, image: "img/Godswill.jpg" },
-                    { id: 203, name: "Ogundun Moyinjah", votes: 81, image: "img/classic.jpg" },
+                    { id: 203, name: "Ogundun Moyinjah", votes: 96, image: "img/classic.jpg" },
                     { id: 204, name: "Akpeninor Favour", votes: 0, image: "img/favour.jpg" },
-                    { id: 205, name: "Ehikwe Destinty", votes: 1141, image: "img/freddy.jpg" }
+                    { id: 205, name: "Ehikwe Destinty", votes: 1161, image: "img/freddy.jpg" }
                             
                 ]
                 
@@ -48,7 +48,7 @@ const awardData = [
                 type: "management",
                 nominees: [
                     { id: 401, name: "Osawese Praise", votes: 0, image: "img/praise.jpg" },
-                    { id: 402, name: "Williams Godson", votes: 785, image: "img/williams.jpeg" }
+                    { id: 402, name: "Williams Godson", votes: 941, image: "img/williams.jpeg" }
                     
                 ]
             },
@@ -82,7 +82,7 @@ const awardData = [
                 nominees: [
                     { id: 701, name: "Amengialue Michael", votes: 1160, image: "img/prosper.jpg" },
                     { id: 702, name: "Osaretin Igbinosa", votes: 5, image: "img/desmond.jpg" },
-                    { id: 703, name: "Giaus", votes: 2237, image: "img/Gaius.jpg" }
+                    { id: 703, name: "Giaus", votes: 2388, image: "img/Gaius.jpg" }
                     
             
                 ]
@@ -106,7 +106,7 @@ const awardData = [
                 description: "Nominees in the Department of Public Health",
                 type: "health",
                 nominees: [
-                    { id: 701, name: "Otakpemehi Tehilah", votes: 85, image: "img/Tehilah.jpg" }
+                    { id: 701, name: "Otakpemehi Tehilah", votes: 95, image: "img/Tehilah.jpg" }
                     
                 ]
             },
@@ -129,7 +129,7 @@ const awardData = [
                 type: "management",
                 nominees: [
                     { id: 1101, name: "Osahon Favour", votes: 95, image: "img/osahon.jpg" },
-                    { id: 1102, name: "Emmanuel Blessing", votes: 41, image: "img/blessing.jpeg" }
+                    { id: 1102, name: "Emmanuel Blessing", votes: 46, image: "img/blessing.jpeg" }
                     
                 ]
             },
