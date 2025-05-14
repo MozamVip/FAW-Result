@@ -22,7 +22,7 @@ const awardData = [
                 nominees: [
                     { id: 201, name: "Imasuen Walter", votes: 42, image: "img/walter.jpg" },
                     { id: 202, name: "Godswill Enajewhe", votes: 0, image: "img/Godswill.jpg" },
-                    { id: 203, name: "Ogundun Moyinjah", votes: 196, image: "img/classic.jpg" },
+                    { id: 203, name: "Ogundun Moyinjah", votes: 300, image: "img/classic.jpg" },
                     { id: 204, name: "Akpeninor Favour", votes: 0, image: "img/favour.jpg" },
                     { id: 205, name: "Ehikwe Destinty", votes: 1161, image: "img/freddy.jpg" }
                             
