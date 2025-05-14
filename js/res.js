@@ -8,7 +8,7 @@ const awardData = [
                     { id: 101, name: "Fejiro Omasibro", votes:3437, image: "img/fejiro.jpg" },
                     { id: 102, name: "Ediagbonya Racheal", votes:247, image: "img/rachael.jpg" },
                     { id: 104, name: "Nwite Chioma Promise", votes: 1180, image: "img/Nwite.jpg" },
-                    { id: 105, name: "Kimberly Eke", votes: 4050, image: "img/kimberly.jpg" },
+                    { id: 105, name: "Kimberly Eke", votes: 4055, image: "img/kimberly.jpg" },
                     { id: 106, name: "Nwachukwu Chioma", votes: 207.5, image: "img/chioma.jpg" },
                     { id: 107, name: "Uzomezie Sylvia", votes: 728, image: "img/sylvia.jpg" }
                     
